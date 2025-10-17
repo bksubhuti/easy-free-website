@@ -1,8 +1,6 @@
 theme: minima
 title: My Simple Free Site
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
+header_pages:
+  - index.md
+  - about.md
